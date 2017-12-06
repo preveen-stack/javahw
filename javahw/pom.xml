@@ -4,4 +4,11 @@
   <artifactId>javahw</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>javahw</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>io.vavr</groupId>
+  		<artifactId>vavr</artifactId>
+  		<version>0.9.2</version>
+  	</dependency>
+  </dependencies>
 </project>
